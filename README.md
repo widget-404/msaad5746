@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @msaad5746
-- 👀 I’m interested in development
-- 🌱 I’m  a flutter developer
+- 👋 Hi, I’m saad hussain
+- 👀 I’m interested in development and collaboration
+- 🌱 I’m  a Sr. flutter developer
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me at msaad5746@gmail.com
 
 <!---
 msaad5746/msaad5746 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
